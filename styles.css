@@ -114,10 +114,11 @@ nav a:hover { color: var(--text); }
   position: relative;
 }
 .real-shot {
-  width: min(360px, 100%);
-  border-radius: 36px;
+  width: min(300px, 86%);
+  border-radius: 28px;
   box-shadow: var(--shadow);
   display: block;
+  margin-inline: auto;
 }
 .muted { color: var(--muted); font-size: 0.9rem; }
 
