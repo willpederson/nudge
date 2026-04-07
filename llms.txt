@@ -1,0 +1,10 @@
+# Nudge
+
+> Nudge helps you stop overthinking and start doing. Add what you want to do, spin the wheel, and lock in.
+
+## Pages
+- Home: https://willpederson.github.io/nudge/
+- Privacy Policy: https://willpederson.github.io/nudge/privacy.html
+
+## Summary
+Nudge is an iPhone productivity app built around a simple idea: when you are bored or stuck and don't know what to do next, add the things you want to do, spin the wheel, and let the app pick one. Once selected, the app helps you lock in with a timer, widgets, and Live Activities.
