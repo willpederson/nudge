@@ -115,6 +115,14 @@ nav a:hover { color: var(--text); }
   border: 1px solid var(--border);
 }
 .hero-note { color: var(--muted); margin-top: 14px; font-size: 0.95rem; }
+.app-store-badge-wrap {
+  margin-top: 18px;
+}
+.app-store-badge {
+  height: 54px;
+  width: auto;
+  display: block;
+}
 
 .phone-mockup {
   display: flex;
