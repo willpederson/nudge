@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://willpederson.github.io/nudge/sitemap.xml
