@@ -116,10 +116,10 @@ nav a:hover { color: var(--text); }
 }
 .hero-note { color: var(--muted); margin-top: 14px; font-size: 0.95rem; }
 .app-store-badge-wrap {
-  margin-top: 18px;
+  margin-top: 28px;
 }
 .app-store-badge {
-  height: 54px;
+  height: 44px;
   width: auto;
   display: block;
 }
